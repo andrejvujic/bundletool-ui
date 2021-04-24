@@ -16,13 +16,13 @@ Bundle file (.aab) <br>
 - Note: Don't forget to have the `r` in front of the path string because it is required for Python
 - Then open your terminal and type: `python main.py` or `python3 main.py` (on Mac) in bundletool-ui folder
 
-This project was created by Andrej Vujić <br>
-on November 30th, 2020
-
 ## Run from any directory
 - For instructions on how to run `bundletool.py` from any directory
 take a look at these StackOverflow answers:
 - <a href="https://stackoverflow.com/a/48730548/13646430">Windows</a>
 - <a href="https://stackoverflow.com/a/57205929/13646430">Linux & Mac</a>
+
+This project was created by Andrej Vujić <br>
+on November 30th, 2020
 
 Copyright © 2020-2021 Andrej Vujić
