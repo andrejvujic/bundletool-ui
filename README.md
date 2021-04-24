@@ -1,5 +1,5 @@
 # bundletool-ui
-v1.0.0 
+v1.0.1
 
 A user interface that makes working with Google's Bundletool easy. <br>
 Allows you to create APKs or universal APK from app's Android App <br>

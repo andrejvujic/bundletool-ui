@@ -1,6 +1,5 @@
 from .file_handler import FileHandler
 from .settings import Settings
-from time import sleep
 import os
 
 handler = FileHandler()
