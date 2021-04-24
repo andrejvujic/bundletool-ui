@@ -1,3 +1,5 @@
+#!python3
+
 from api.file_handler import FileHandler
 from api.bundletool_api import BundletoolApi
 from tkinter import Tk, Button, Label, Entry, messagebox
